@@ -7,6 +7,6 @@ for the logic about the code you write : do it in the folder (backend_sdg_008/ex
 
 
 # To run the project
-1 - You need to have the version 3.8.6 of python
-2 - install all the dependencies using ( pip install -r requirements.txt )
-3 - and run python manage.py runserver (opps you are inside)
+* You need to have the version 3.8.6 of python
+* Install all the dependencies using ( pip install -r requirements.txt )
+* Run python manage.py runserver (opps you are inside)
